@@ -28,7 +28,7 @@
 - 금요일이 포함된 마지막 주는 배포를 진행한다.
 
 ## **A new possibilities app**
-1. 뽀모도르
+1. [Pomodori](https://github.com/x6tri3n0g/pomodori)
 2. 쉐어티파이
 3. 피카마카
 4. ...
