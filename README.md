@@ -1,4 +1,6 @@
-# 12-apps
+# 12-apps  
+
+![Screenshot 2025-01-28 at 02 34 34](https://github.com/user-attachments/assets/476920be-ebf5-4016-9650-38d35e44a969)
 
 
 > FE 개발자 5년차. 이제는 내가 필요한 앱을 내가 개발해보자.
